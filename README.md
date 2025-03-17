@@ -1,4 +1,4 @@
-# Assignment Requirements
+# Requirements
 1. Dataset Selection
 ●	Task: Datasets to be shared with participants.
 
